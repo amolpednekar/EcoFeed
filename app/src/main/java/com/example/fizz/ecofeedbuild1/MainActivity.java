@@ -27,7 +27,7 @@ import android.support.v7.app.ActionBarActivity;
 import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
-
+//fml
     static final int DIALOG_ERROR_CONNECTION = 1;
     @Override
     public void onCreate(Bundle savedInstanceState) {
